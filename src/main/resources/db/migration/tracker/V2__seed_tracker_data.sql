@@ -1,0 +1,15 @@
+INSERT INTO categories (name, description) VALUES
+('Java', 'Java programming language and ecosystem'),
+('Spring Boot', 'Spring Boot framework and auto-configuration'),
+('Spring Security', 'Authentication and authorization with Spring Security'),
+('Microservices', 'Microservices architecture patterns'),
+('Docker', 'Containerization with Docker'),
+('Kubernetes', 'Container orchestration with Kubernetes'),
+('Terraform', 'Infrastructure as Code with Terraform'),
+('AWS', 'Amazon Web Services cloud platform'),
+('DevOps', 'DevOps practices and tooling'),
+('AI/ML', 'Artificial Intelligence and Machine Learning'),
+('CKA', 'Certified Kubernetes Administrator'),
+('DSA', 'Data Structures and Algorithms'),
+('System Design', 'System Design and architecture'),
+('Interview Preparation', 'Technical and behavioral interview prep');
