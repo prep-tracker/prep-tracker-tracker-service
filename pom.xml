@@ -50,10 +50,25 @@
     </dependencyManagement>
 
     <dependencies>
-        <!-- Common Lib -->
+        <!-- Common Libs -->
         <dependency>
             <groupId>com.prept</groupId>
-            <artifactId>common-lib</artifactId>
+            <artifactId>common-dto</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.prept</groupId>
+            <artifactId>common-security</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.prept</groupId>
+            <artifactId>common-exception</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.prept</groupId>
+            <artifactId>common-logging</artifactId>
             <version>1.0.0</version>
         </dependency>
 
